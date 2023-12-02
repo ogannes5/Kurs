@@ -40,4 +40,13 @@
         </LinearLayout>
     </androidx.appcompat.widget.Toolbar>
 
+    <EditText
+        android:id="@+id/editTextTextEmailAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        tools:layout_editor_absoluteX="77dp"
+        tools:layout_editor_absoluteY="232dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
